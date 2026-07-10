@@ -175,4 +175,46 @@ Selected the best-performing model.
 
 ---
 
+---
+
+# 📸 Project Screenshots
+
+## 🏠 Project Home
+
+![Project Home](Screenshots/Home.png)
+
+---
+
+## 📊 Model Comparison (Code)
+
+![Model Comparison Code](Screenshots/model_comparison_code.png)
+
+---
+
+## 📈 Model Comparison Result
+
+![Model Comparison Result](Screenshots/model_comparison_result.png)
+
+---
+
+## 🏆 Best Model Selection
+
+![Best Model Selection](Screenshots/Best_Model_Selection.png)
+
+---
+
+## 📋 Model Evaluation
+
+![Model Evaluation](Screenshots/model_evaluation.png)
+
+---
+
+## 🔥 Random Forest Confusion Matrix
+
+![Random Forest Confusion Matrix](Screenshots/random_forest_confusion_matrix.png)
+
+---
+
+---
+
 ## ⭐ If you like this project, don't forget to give it a Star.
